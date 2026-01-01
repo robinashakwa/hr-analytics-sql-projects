@@ -1,0 +1,11 @@
+emp_id,emp_name,department,gender,job_level,salary
+1,Asha,HR,Female,Junior,40000
+2,Ravi,IT,Male,Mid,60000
+3,Neha,HR,Female,Senior,75000
+4,Amit,Finance,Male,Senior,80000
+5,Pooja,HR,Female,Junior,42000
+6,Karan,IT,Male,Senior,90000
+7,Sneha,Finance,Female,Mid,65000
+8,Rahul,IT,Male,Junior,50000
+9,Meena,Finance,Female,Senior,82000
+10,Arjun,IT,Male,Mid,70000
