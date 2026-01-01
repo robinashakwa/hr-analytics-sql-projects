@@ -1,0 +1,11 @@
+emp_id,emp_name,department,gender,salary,joining_date,exit_date,is_active
+1,Asha,HR,Female,40000,2019-06-10,,1
+2,Ravi,IT,Male,60000,2018-03-15,2023-05-20,0
+3,Neha,HR,Female,55000,2020-01-05,,1
+4,Amit,Finance,Male,70000,2017-09-12,2022-11-30,0
+5,Pooja,HR,Female,45000,2021-04-01,,1
+6,Karan,IT,Male,65000,2019-08-19,2023-03-10,0
+7,Sneha,Finance,Female,72000,2016-02-25,,1
+8,Rahul,HR,Male,48000,2022-07-11,,1
+9,Meena,IT,Female,58000,2020-10-05,2022-12-15,0
+10,Arjun,Finance,Male,75000,2018-06-18,,1
