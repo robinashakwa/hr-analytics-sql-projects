@@ -1,0 +1,11 @@
+emp_id,emp_name,department,performance_rating,salary,is_active
+1,Asha,HR,4,40000,1
+2,Ravi,IT,3,60000,1
+3,Neha,HR,5,75000,1
+4,Amit,Finance,2,80000,0
+5,Pooja,HR,3,42000,1
+6,Karan,IT,4,90000,1
+7,Sneha,Finance,5,65000,1
+8,Rahul,IT,2,50000,0
+9,Meena,Finance,4,82000,1
+10,Arjun,IT,3,70000,1
